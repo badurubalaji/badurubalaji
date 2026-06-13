@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://badurubalaji.com"><img src="https://img.shields.io/badge/Website-badurubalaji.com-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/badurubalaji"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/badurubalaji"><img src="https://img.shields.io/badge/X-@badurubalaji-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="mailto:balaji4b@gmail.com"><img src="https://img.shields.io/badge/Email-balaji4b@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -119,7 +118,7 @@ Self-built platforms — the architecture is the point.
 
 Founder validating an MVP · investor doing technical diligence · a company that needs a senior hand on architecture — I'd like to hear what you're building.
 
-📧 **balaji4b@gmail.com**  ·  🌐 **[badurubalaji.com](https://badurubalaji.com)**  ·  💼 **[LinkedIn](https://www.linkedin.com/in/badurubalaji)**
+📧 **balaji4b@gmail.com**  ·  💼 **[LinkedIn](https://www.linkedin.com/in/badurubalaji)**
 
 ---
 
